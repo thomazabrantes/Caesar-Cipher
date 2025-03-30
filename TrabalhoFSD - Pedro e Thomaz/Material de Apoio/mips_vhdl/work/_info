@@ -1,0 +1,405 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/abran/Desktop/Material trabalho/Material de Apoio/mips_vhdl
+Ealu
+Z1 w1720091618
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 work 5 pmips 0 22 :m>N[A=]CffjdGFTgl59h0
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z8 8mipsFSD.vhd
+Z9 FmipsFSD.vhd
+l0
+L79
+V5XUhjQ0VmHW_Ade>55n]53
+!s100 Ac12O0Hk4e85F;m3LUVbB0
+Z10 OV;C;10.5b;63
+32
+Z11 !s110 1720472016
+!i10b 1
+Z12 !s108 1720472016.000000
+Z13 !s90 -reportprogress|300|mipsFSD.vhd|
+Z14 !s107 mipsFSD.vhd|
+!i113 1
+Z15 tExplicit 1 CvgOpt 0
+Aalu
+R2
+R3
+R4
+R5
+R6
+R7
+Z16 DEx4 work 3 alu 0 22 5XUhjQ0VmHW_Ade>55n]53
+l89
+L86
+V;H_F]9k4>n2zTYbcP9zdb1
+!s100 lommzogT4>NRFXLR6jNFU1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Econtrol_unit
+R1
+R4
+R2
+R3
+R6
+R7
+R0
+R8
+R9
+l0
+L236
+VU_0BE`4TnY3n16dnQgCb91
+!s100 Hz5T]3zc<bHR7[zef_0gG3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Acontrol_unit
+R4
+R2
+R3
+R6
+R7
+Z17 DEx4 work 12 control_unit 0 22 U_0BE`4TnY3n16dnQgCb91
+l247
+L243
+VTk[b<b9n3f<:^43HE6TI00
+!s100 <>R9bHIQ5U^Q;YicjJXcU3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Ecpu_tb
+R1
+R3
+R4
+R2
+R6
+R7
+R0
+Z18 8mipsFSD_tb.vhd
+Z19 FmipsFSD_tb.vhd
+l0
+L75
+Vg8Aae;`@9NaMcY375;1`10
+!s100 YTdd`><MCX:9VIhO1GOLO0
+R10
+32
+Z20 !s110 1720472017
+!i10b 1
+R12
+Z21 !s90 -reportprogress|300|mipsFSD_tb.vhd|
+Z22 !s107 mipsFSD_tb.vhd|
+!i113 1
+R15
+Acpu_tb
+Z23 DEx4 work 7 ram_mem 0 22 GoZn=G;<Nd3g;4I_IMI[]0
+Z24 DEx4 work 7 mipsfsd 0 22 6b9G<P=_=L9lBNUamBRCV1
+R3
+R4
+R2
+R6
+R7
+DEx4 work 6 cpu_tb 0 22 g8Aae;`@9NaMcY375;1`10
+l89
+L78
+Vo6<jKXRQ_`E<TJMCW5ON71
+!s100 @ViOWM@Fm[ebhRzIYMOmQ0
+R10
+32
+R20
+!i10b 1
+R12
+R21
+R22
+!i113 1
+R15
+Edatapath
+R1
+R3
+R4
+R2
+R6
+R7
+R0
+R8
+R9
+l0
+L134
+V;@6;34gUD2RZVL<[_ILI81
+!s100 RX>?g1hiPfMBCbn8^S_552
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Adatapath
+R5
+R16
+Z25 DEx4 work 8 reg_bank 0 22 `2d5?J3<hFoBJR>3SR`T=1
+Z26 DEx4 work 7 regnbit 0 22 ^]OMCWN48P1;IE3]CD`0z1
+R3
+R4
+R2
+R6
+R7
+Z27 DEx4 work 8 datapath 0 22 ;@6;34gUD2RZVL<[_ILI81
+l152
+L149
+VZc[0Y8VJ6TY0lQj8:mLD`2
+!s100 IPiIDH:XfgFjRT[zLF]fN3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Emipsfsd
+R1
+R4
+R2
+R3
+R6
+R7
+R0
+R8
+R9
+l0
+L347
+V6b9G<P=_=L9lBNUamBRCV1
+!s100 E=3CZT<FHRM[SKk7]YCD^3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Aa1
+R17
+R27
+R4
+R2
+R3
+R6
+R7
+R24
+l363
+L360
+V235FXIo??<_oPUoC8[>?@3
+!s100 Hh`o@k488BbZ8<:@z4AN[2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Ppmips
+R4
+R2
+R6
+R7
+R1
+R0
+Z28 8pack_mips_fsd.vhd
+Z29 Fpack_mips_fsd.vhd
+l0
+L11
+V:m>N[A=]CffjdGFTgl59h0
+!s100 I2M7TGZKZ?iNhh?SDTU9d0
+R10
+32
+b1
+R11
+!i10b 1
+R12
+Z30 !s90 -reportprogress|300|pack_mips_fsd.vhd|
+Z31 !s107 pack_mips_fsd.vhd|
+!i113 1
+R15
+Bbody
+R3
+R4
+R2
+R6
+R7
+l0
+L43
+V8N65gGZ<QUeRM_I>XJz>l0
+!s100 OVVGFd4fjS6o:gkE:DkoD2
+R10
+32
+R11
+!i10b 1
+R12
+R30
+R31
+!i113 1
+R15
+Eram_mem
+R1
+R4
+R2
+R6
+R7
+R0
+R18
+R19
+l0
+L18
+VGoZn=G;<Nd3g;4I_IMI[]0
+!s100 kT<@?2L76SBI0f>`3DJ2^3
+R10
+32
+R20
+!i10b 1
+R12
+R21
+R22
+!i113 1
+R15
+Aram_mem
+R4
+R2
+R6
+R7
+R23
+l36
+L27
+VideLZa``d?1anKN6W:3^z3
+!s100 =A@NeLG6LAC^73Q9Yd=ED2
+R10
+32
+R20
+!i10b 1
+R12
+R21
+R22
+!i113 1
+R15
+Ereg_bank
+R1
+R3
+R4
+R2
+R6
+R7
+R0
+R8
+R9
+l0
+L46
+V`2d5?J3<hFoBJR>3SR`T=1
+!s100 Xl2TDe=Tjd3>cg3Aa10@J2
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Areg_bank
+R26
+R3
+R4
+R2
+R6
+R7
+R25
+l58
+L54
+V`IF9JIng^>2_2=bjJl@302
+!s100 ZmINDXN]FiDc07i0kFhh^0
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Eregnbit
+R1
+R4
+R2
+R3
+R6
+R7
+R0
+R8
+R9
+l0
+L14
+V^]OMCWN48P1;IE3]CD`0z1
+!s100 nSBD`lU_IiY@iYcnE7THG3
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+Aregn
+R4
+R2
+R3
+R6
+R7
+R26
+l23
+L22
+V6LPSI^fd?_kg3YjagYG552
+!s100 ]BO[GP^O2DN2AO^?=L<b31
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15

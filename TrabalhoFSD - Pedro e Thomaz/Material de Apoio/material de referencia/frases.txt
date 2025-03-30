@@ -1,0 +1,32 @@
+Os registradores de uma CPU são como mochilas de escola: sempre carregando um monte de bits.
+Não confio muito em flip-flops; eles mudam de estado o tempo todo.
+Minha RAM tem memória curta, mas meu HDD nunca se esquece de nada, exceto onde estão meus arquivos importantes!
+Por que o bit estava solitário? Porque ele era impar e não tinha paridade.
+As portas lógicas são os seguranças dos bits; só deixam os certos passarem.
+Na lógica binária, a família é tudo ou nada, literalmente!
+Se o seu multiplexador estiver indeciso, lembre-o que ele pode escolher apenas uma saída de cada vez.
+O oscilador se diverte tanto porque ele sabe como manter a frequência!
+Os buffers são como mães, sempre protegendo os dados de qualquer overflow.
+Quem precisa de café quando você tem um clock que nunca para?
+Algoritmo é como uma receita de bolo que nunca dá errado. Ou quase nunca.
+Loop infinito é a maneira do computador dizer que está com insônia.
+Para cada bug encontrado, dois novos nascerão. Lei de Murphy da programação.
+A documentação é a amiga imaginária da programação. Sabemos que está lá mas nunca vemos.
+Algoritmos é onde o pensamento linear se transforma em complexidade.
+Minha relação com algoritmos é como um romance complexo: cheio de loops e condições.
+O meu compilador está sempre dizendo que meu código está baixando o nível.
+A computação é cheia de mistérios. O principal é 'por que o código funciona quando não deveria'.
+A arquitetura do meu código é igual ao meu armário. Caótica, mas eu sei onde tudo está.
+Há três tipos de seres humanos: os que entendem binário e os que não.
+Meu banco de registradores é como meu guarda-roupa. Metade das coisas não precisa estar lá.
+O ciclo de clock é a batida do coração de todos os computadores.
+O multiprocessamento é como ter várias mãos. Nem sempre ajuda.
+Sou um mestre do AND, sempre precisando de duas verdades para seguir em frente.
+Tudo fica mais simples quando você reduz a expressão lógica.
+Quem precisa de palavras quando você tem código binário?
+O multiplexador é o maestro da orquestra de dados.
+Amo tanto números binários que até meu cachorro se chama Bit.
+Queria que a vida fosse tão previsível quanto uma porta NOT.
+Na dança dos números, sou um fanático por binário.
+O segredo da vida está em saber decodificar os sinais certos.
+Somos como um flip-flop, sempre armazenando os bons momentos.
